@@ -1,0 +1,18 @@
+
+.cart{
+    display: grid;
+    width: 80%;
+    margin: auto;
+    grid-template-columns: repeat(4,1fr);
+
+}
+
+.cartelem{
+    display: flex;
+    height: 100px;
+    width: 300px;
+    /* text-align: center; */
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+}

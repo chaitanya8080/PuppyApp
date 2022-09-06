@@ -1,0 +1,36 @@
+
+.search{
+  
+    margin: auto;
+    
+}
+.searchInput{
+    margin: auto;
+    height: 30px;
+    width: 300px;
+    margin-top: 30px;
+    border-radius: 5px;
+}
+.searchButton{
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+    height: 35px;
+    padding: 5px;
+    width: 100px ;
+}
+
+.puppyImage{
+    display: grid;
+    width: 80%;
+    margin: auto;
+    grid-template-columns: repeat(4,1fr);
+    gap:20px;
+    margin-top: 20px;
+    
+}
+.imagediv{
+    height: 400px;
+    width: 300px;
+    border-radius: 10px;
+}
